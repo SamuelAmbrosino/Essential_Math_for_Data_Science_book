@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="(https://github.com/SamuelAmbrosino/options_futures_and_other_derivatives_john_hull_book">
-    <img src="essential_math.png" alt="Logo" width="80" height="120">
+    <img src="images/essential_math.png" alt="Logo" width="80" height="120">
   </a>
 
 <h3 align="center"> Essential Math for Data Science</h3>
